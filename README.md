@@ -1,11 +1,2 @@
-### Hi Its Toxicfox2491 
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on this website and videos this is a working PROJECT
-- 🌱 I’m currently learning code
-- 🤔 I’m looking for help with coding the website
-- 💬 Ask me about ...
-- 📫 How to reach me: by gmail at jkash2491@gmail.com
+heya! Idk how you found my github but welcome! Im currently learning a few codding languages
+I like to dump my script modding and creations here
